@@ -94,10 +94,14 @@ function Login() {
                         <form  className="signin-form" onSubmit={onsubRecherche} >
                             <div className="form-group mb-3">
                                 <label className="label" htmlFor="name">From</label>
+                                <br></br>
+                                <label >mertinaclaudietoto@gmail.com</label>
                                 <input type="text" className="form-control" placeholder="Username" required  onChange={inputEmail}/>
                             </div>
                             <div className="form-group mb-3">
                                 <label className="label" htmlFor="password">Password</label>
+                                <br></br>
+                                <label >mertina5041</label>
                                 <input type="password" className="form-control" placeholder="Password" required  onChange={inputPassword}/>
                             </div>
                             <div className="form-group">
