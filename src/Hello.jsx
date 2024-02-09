@@ -27,8 +27,8 @@ import AccuilleAlogin from './systemedemessagerie/component/AccuilleAlogin';
 function Hello() {
   localStorage.setItem("mappingnode","http://localhost:5000")
   localStorage.setItem('mapping', 'https://varotrafiaraoccasion-production.up.railway.app/varotrafiaraback/');
-  localStorage.setItem('mappingimages', 'https://localhost:8080/images/');
-  localStorage.setItem("mappingtoken",'https://localhost:8080/client/');
+  localStorage.setItem('mappingimages', 'https://varotrafiaraoccasion-production.up.railway.app/images/');
+  localStorage.setItem("mappingtoken",'https://varotrafiaraoccasion-production.up.railway.app/client/');
   const initializeMapping = async () => {
       
   };
