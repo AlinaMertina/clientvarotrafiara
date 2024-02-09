@@ -1,0 +1,20 @@
+    [
+    {
+        "id_utilisateur": 1,
+        "nom": "Aiden Chavez",
+        "statut": "online",
+        "avatar": "https://bootdey.com/img/Content/avatar/avatar1.png"
+    },
+    {
+        "id_utilisateur": 2,
+        "nom": "Bob Johnson",
+        "statut": "offline",
+        "avatar": "https://bootdey.com/img/Content/avatar/avatar2.png"
+    },
+    {
+        "id_utilisateur": 3,
+        "nom": "Alice",
+        "statut": "online",
+        "avatar": "https://bootdey.com/img/Content/avatar/avatar3.png"
+    }
+]
